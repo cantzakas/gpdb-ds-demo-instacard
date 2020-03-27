@@ -1,6 +1,6 @@
 ## README
 
-Instacart Market Basket Analysis (https://www.kaggle.com/c/instacart-market-basket-analysis/)
+[Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/)
 - Which products will an Instacart consumer purchase again?
 
 Additional Questions, inspired by [this article](https://tech.instacart.com/3-million-instacart-orders-open-sourced-d40d29ead6f2):
@@ -11,6 +11,8 @@ Other questions, possibly relevant for our demo:
 - Combinations of commonly together products
 - Sort products based on possibility to add into basket
 
+Info for Kaggle API:
+- [Kaggle API](https://github.com/Kaggle/kaggle-api)
 
 Greenplum/MADLib material for reference:
-- Apriori Algorithm (http://madlib.apache.org/docs/latest/group__grp__assoc__rules.html#examples) 
+- [Apriori Algorithm](http://madlib.apache.org/docs/latest/group__grp__assoc__rules.html#examples) 
